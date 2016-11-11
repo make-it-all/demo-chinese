@@ -11,7 +11,7 @@
   <body>
   <?php require 'partials/_header.php'; ?>
    <div id="page_wrapper">
-    <?php require 'partials/_help_sidebar.php'; ?>
+    <?php require 'partials/_sidebar.php'; ?>
 
     <div id="page">
       <?php if (isset($_GET['flash'])): ?>
@@ -25,7 +25,7 @@
       <div id="page_inner">
         <div id="page_head">
           <div id="page_info">
-            <h1>Welcome, Sally</h1>
+            <h1>欢迎, Sally</h1>
             <p>
               Since you've been gone:
             </p>

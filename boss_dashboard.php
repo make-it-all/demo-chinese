@@ -25,7 +25,7 @@
       <div id="page_inner">
         <div id="page_head">
           <div id="page_info">
-            <h1>Welcome, Micheal Boss</h1>
+            <h1>欢迎, Micheal Boss</h1>
             <p>
               Stuff has gone on:
             </p>
